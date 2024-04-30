@@ -1,0 +1,9 @@
+/* TemplateSelector.css */
+#template-select {
+    margin: 10px;
+    padding: 5px;
+    background-color: #1e1e1e;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
